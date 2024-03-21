@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ammaskid](https://github.com/ammaskid)
 
-- 💬 Ask me about **Swift , Swift UI.**
+- 💬 Ask me about **Swift , Swift UI , Oops , Java.**
 
 - 📫 How to reach me **abhinavkrishna1234@icloud.com**
 
