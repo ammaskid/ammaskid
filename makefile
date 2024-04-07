@@ -1,0 +1,8 @@
+# export GIT_AUTHOR_DATE="2020-01-14T01:01:01"
+# export GIT_COMMITTER_DATE="2020-01-14T01:01:01"
+export GIT_AUTHOR_DATE=$MODIFIED_TIME
+export GIT_COMMITTER_DATE=$MODIFIED_TIME
+date >> trash
+git add .
+git commit -m "commit"
+echo $MODIFIED_TIME
