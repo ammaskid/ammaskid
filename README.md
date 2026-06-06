@@ -1,42 +1,54 @@
-<h1 align="center">Hey 👋, This is Abhinav Krishna S B</h1>
-<h3 align="center">A passionate iOS developer from India .Swift | iOS Developer 🧑‍💻 Kerala | Bangalore 📍 200+ smiles received :-) abhinavkrishna1234@icloud.com I put Apple frameworks through their paces .</h3>
+```markdown
+# 👋 Hi, I'm Abhinav Krishna S B
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammaskid" alt="ammaskid" /></a> </p>
+### iOS Developer | Swift & SwiftUI | India 🇮🇳
 
-<p align="left"> <a href="https://twitter.com/ammaskid" target="blank"><img src="https://img.shields.io/twitter/follow/ammaskid?logo=twitter&style=for-the-badge" alt="ammaskid" /></a> </p>
+I enjoy building fast, reliable, and user-friendly Apple applications with modern technologies and clean architecture.
 
-- 🔭 I’m currently working on **iOS Development**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Design and build applications for the iOS platform Ensure the performance, quality, and responsiveness of applications Collaborate with a team to define, design, and ship new features Identify and correct bottlenecks and fix bugs Help maintain code quality, organization, and automatization**
+- 📱 iOS Developer specializing in **Swift** and **SwiftUI**
+- 💡 Passionate about building elegant Apple experiences
+- 🌱 Continuously exploring new Apple frameworks
+- 🤝 Open to freelance projects and collaborations
+- 📍 Kerala / Bangalore, India
 
-- 👨‍💻 All of my projects are available at [https://github.com/ammaskid](https://github.com/ammaskid)
+## 🛠 Tech Stack
 
-- 💬 Ask me about **Swift , Swift UI , Oops , Java.**
-
-- 📫 How to reach me **abhinavkrishna1234@icloud.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ammaskid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhi_krz" height="30" width="40" /></a>
-<a href="https://dev.to/ammaskid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinavkrz" height="30" width="40" /></a>
-<a href="https://twitter.com/ammaskid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ammaskid" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhinav-krishna-s-b-95a678223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-krishna-s-b-95a678223/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abhinav_krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinav_krishna" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abhinavkrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhinavkrz" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ammaskid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ammas_kid" height="30" width="40" /></a>
-<a href="https://instagram.com/ammas_kid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ammas_kid" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💼 What I Build
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ammaskid&limit=5&theme=flat&combine_all_yearly_contributions=true)
- 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/adobeankid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ammaskid" /></a><a href="https://ko-fi.com/ammaskid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ammaskid" /></a></p><br><br>
+- 📱 Native iOS Applications
+- 🎨 Modern SwiftUI Interfaces
+- 🚀 Business & Startup Apps
+- 🔧 Performance Optimized Solutions
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammaskid&show_icons=true&theme=merko&locale=en&layout=compact" alt="ammaskid" /></p>
+## 📫 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammaskid&show_icons=true&theme=tokyonight&title_color=fff700&text_color=eeff00&locale=en" alt="ammaskid" /></p>
+- **Email:** abhinavkrishna1234@icloud.com
+- **GitHub:** https://github.com/ammaskid
+- **LinkedIn:** https://www.linkedin.com/in/abhinav-krishna-s-b-95a678223/
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammaskid&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaskid&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building clean, fast, and delightful iOS experiences with Swift.</i>
+</p>
+```
